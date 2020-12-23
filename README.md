@@ -11,6 +11,6 @@ lo fazendo com que todas as luzes da casa ascendam e comecem a piscar de forma c
 alarme que dispara um som alto, e assim os vizinhos poderão escutar, fazendo com que o próprio
 invasor acabe se assustando também, com o intuito de obter uma segurança ainda mais reforçada.
 
-🔵C
+
 
 
